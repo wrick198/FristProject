@@ -4,5 +4,5 @@ git tracks changes of files
 git push sucessful!
 
 #new branch
-creating a new branch is quick
+creating a new branch is quick &&simple
 
