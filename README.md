@@ -8,3 +8,6 @@ creating a new branch is quick &&simple
 
 #feature1
 and simple
+
+#冲突点 <br>
+master:123
