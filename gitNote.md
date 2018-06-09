@@ -1,8 +1,9 @@
-### 6. Git分布式版本控制系统
+### 1. Git分布式版本控制系统
 - 新建文件夹，把该目录变为git仓库，git init
 - 工作区 修改文件
 - 暂存区 git add，将工作区修改的文件放到暂存区
 - 分支，git commit将暂存区文件提交到分支
+
 ![](http://p5mgrasjk.bkt.clouddn.com/18-6-5/61512765.jpg)
 
 ```
